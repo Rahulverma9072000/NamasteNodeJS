@@ -1,0 +1,48 @@
+NodeJS - Run JavaScript Everywhere 
+It helps javascript run outside web browser 
+NodeJs - Run on V8 Engine 
+Event Driven Architecture - Core concept , today NodeJS is important because of this feature 
+Asynchronous I/O (Non Blocking I/O) : Core Concept of NodeJS
+
+Wherever there is JavaScript there will be a javascript engine 
+History Of NodeJS : Ryan Dhall 
+2009(NodeJS Born) (He named it as webjs because he thought he will build web server from javascript than after that he believes that this far more than web server than he named as NodeJS)
+Ryan Dahl Started as solo developer 
+Spider Monkey (FireFox Engine) in 2 days he drop this engine
+V8 (Google Chrome Engine) 
+
+Apache (http server) : Apache was used to create http server , it was a blocking server .  
+Non Blocking I/O : NodeJs is the non blocking server 
+Joyent Company bring Ryan Dahl as employee to built this project in thier company and fund this project . 
+
+2010 : They made node package manager . 
+
+Till 2010 :  NodeJs is supported only MacOs and Linux . 
+
+
+2011 : It adds Windows Support for NodeJS , here Joyent + Microsoft came together .
+
+2012 : Ryan Dhal left the Project , Now its handled by Issac(Founder of npm)
+
+2014 : Fedor fork it and named it io.js , Than there are 2 projects going on NodeJs and io.js 
+
+2015 : Both io.js and nodejs get merged , NodeJS foundation committe formed and they maintain NodeJS now 
+
+2019 : There was committe named js foundation and nodeJs foundation both merged and formed "OpenJS" foundation 
+
+2019 - Till Now : NodeJS is mainitained by OpenJS foundation and taking decision .
+
+JavaScript is famous because of : 
+1) JavaScript Everywhere(Frontend + Backend)
+2) Asynchronous, Non Blocking I/O
+3) Performance 
+4) Node Package Manager 
+5) Large Community and corporate support 
+6) Microservices & API's 
+7) Rich Tooling and framework 
+8) Cross-Platform Development 
+
+
+
+
+
