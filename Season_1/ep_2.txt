@@ -1,1 +1,50 @@
 NodeJS - JS on Server 
+Server : Remote Computer , located at CPU 
+What is means when you are running website on server . 
+
+There are 2 things : Server , Client 
+Client : Your PC 
+Lets say you do www.google.com : it will have an IP (114.265.123.8) and this IP will be map to computer 
+
+So Earlier JavaScript used to run on the Client Server and after coming NodeJS javascript started runnning on Server . 
+So For Frontend + Backend we can use JavaScript . So Single Developer knowing JavaScript can work on FullStack . 
+Frameworks like MERN , MEAN become popular just because javascript can run on client and servers .
+
+
+NodeJS is C++ Code ? 
+JS Engine - V8(Google) is C++ Program . 
+https://github.com/v8/v8 : 72% of code is written in C++ . 
+V8 Engine - execute JS Code , is google's open source high performance javascript and web assembly engine, written in C++ . V8 can be embedded into any C++ Application .
+JavaScript -> V8 -> Machine Level Code 
+
+NodeJS is a C++ Application with V8 Embedded into it .
+
+What is ECMAScript ? 
+ECMAScript is a standard for scripting language like JavaScript. basically it defines rules like syntax and code . 
+ECMAScript : 
+Standards / Rules 
+JS Engines have to follow these standards , Why ? 
+So that all the engines will give same result of javascript code . 
+V8 - Google 
+Spider Monkey - Firefox 
+Chakra - Microsoft
+JavaScriptCore - Safari 
+
+NodeJS -> V8 Engines + More SuperPower(API's on Server)
+
+V8 engines has to follow this ECMA standards. and node.js has v8
+engines, but node.js also has some superpowers, such as api calls on servers,
+which make it more powerful than v8 engines alone, which cannot do
+database connections, api calls, etc. because of ECMA standards. and this is
+known as the JS runtime.
+
+NodeJS -> 62% Javascript + 20% C++ so its more written in JavaScript
+
+
+V8 is C++ Code Why ? 
+Computer understands -> Binary Codes 
+On Top of Binary Codes -> Assembly COde
+On TOp of Assembly COde -> Machine Code 
+On Top of Machine Code -> high Level Language (THis is we understand)
+
+User writes in JS -> Its passed to C++ Engine -> Converted to Machine Code -> Binary Codes 
