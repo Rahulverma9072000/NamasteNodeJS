@@ -1,0 +1,23 @@
+THere are 2 types of Patterns : 
+1) Common JS Module (cjs)
+2) ES Modules (mjs)
+
+Common JS Module (MJS or CJS) : 
+module.exports 
+require()
+by default used in nodeJS 
+Older Way 
+Synchronous Ways 
+Code Run in Non Strict Mode 
+
+
+ES Modules (ESM):
+import export 
+by default used in React , Angular 
+Newer Way 
+We have option of doing in Asynchronous way (THis is way more powerful) by default its synchronous .
+Strict Mode is by default 
+
+But Commite is saying that going forward ES Module will be the standard way to write the code 
+But for Now Maximum CodeBases is using the CommonJS Module right now . 
+So in this course we will be using Common JS Mpdule going forward . 
